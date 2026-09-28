@@ -13,7 +13,7 @@ The platform bridges raw energy data and executive-level intelligence through a 
 
 ## The Problem
 * **Data Fragmentation:** Energy transition data is often locked across disparate global repositories (such as Ember's multi-decade generation tracking and World Bank development indicators), making cross-national benchmarking slow and tedious.
-* **Lack of Granularity:** High-level continental summaries frequently obscure national nuances—such as Ethiopia's nearly 100% renewable hydro-dominant grid versus fossil-heavy industrial baseloads in other regions.
+* **Lack of Granularity:** High-level continental summaries frequently obscure national nuances. such as Ethiopia's nearly 100% renewable hydro-dominant grid versus fossil-heavy industrial baseloads in other regions.
 * **Actionable Insight Gaps:** Stakeholders require clean, instantaneous visualizations to evaluate decarbonization progress, renewable penetration, and electricity access deficits without complex data engineering overhead.
 
 ---
