@@ -1,6 +1,6 @@
 # African Electricity Transition Intelligence Dashboard
 
-> An evidence-based, multi-page analytics platform tracking power generation mixes, renewable energy integration, grid access electrification, and decarbonization pathways across 10 strategic African nations.
+An evidence-based, multi-page analytics platform tracking power generation mixes, renewable energy integration, grid access electrification, and decarbonization pathways across 10 strategic African nations.
 
 ---
 
