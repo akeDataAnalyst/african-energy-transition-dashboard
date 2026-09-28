@@ -1,5 +1,7 @@
 # African Electricity Transition Intelligence Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://african-energy-transition-dashboard-mwxincbpd7fdbi4dwkvahm.streamlit.app/)
+
 An evidence-based, multi-page analytics platform tracking power generation mixes, renewable energy integration, grid access electrification, and decarbonization pathways across 10 strategic African nations.
 
 ---
